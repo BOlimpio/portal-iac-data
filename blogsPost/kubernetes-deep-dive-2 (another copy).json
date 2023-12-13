@@ -1,8 +1,0 @@
-{
-    "title": "Kubernetes DeepDive — Parte 2",
-    "date": "July 25, 2023",
-    "content": "Welcome back to our Kubernetes journey! In this article, we'll take things up a notch and explore a little more advanced concepts that will further enhance your Kubernetes expertise. We’ll dive into the RBAC model to ensure secure access control, explore the configuration options for Pods, and dive into cluster configuration for optimal performance!",
-    "link": "https://medium.com/@brunoolimpio/kubernetes-deepdive-parte-2-a65ffdce596d",
-    "image": "https://via.placeholder.com/150x150",
-    "contributor": ["BRUNO OLIMPIO","PEDRO ZUZI"]
-}
